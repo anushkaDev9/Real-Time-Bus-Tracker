@@ -1,5 +1,5 @@
 # Real Time Bus Tracker
-#Licence 
+# Licence 
 Copyright (c) 2024 Anushka Rangari 
 
 Permission is hereby granted, free of charge, to any person obtaining
