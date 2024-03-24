@@ -8,6 +8,6 @@ Display the live location of the busses on Map by using an API to source real-ti
 1) Selecting differnt buses and tracking them.
 2) Impromving css.
 3) Making responsive.
-# Licence 
+
 
  
